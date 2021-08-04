@@ -1,1 +1,64 @@
-[]
+[{
+    "boss": "B1",
+    "id": "B101",
+    "characters": [
+      {
+        "id": 1071,
+        "requirements": []
+      },
+      {
+        "id": 1057,
+        "requirements": []
+      },
+      {
+        "id": 1027,
+        "requirements": []
+      },
+      {
+        "id": 1037,
+        "requirements": []
+      },
+      {
+        "id": 1043,
+        "requirements": []
+      }
+    ],
+    "time": {
+      "value": 90,
+      "low": null,
+      "high": null
+    },
+    "comments": [],
+    "labels": [],
+    "standard_damage": 5300000,
+    "sources": [
+      {
+        "description": "阿联酋530w\n视频有轴",
+        "author": "阿联酋",
+        "damage": {
+          "value": 5300000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1Vv411J7vz?p=1"
+        ],
+        "images": [],
+        "comments": []
+      },
+      {
+        "description": "Sora546w\n视频有轴",
+        "author": "Sora",
+        "damage": {
+          "value": 5460000,
+          "low": null,
+          "high": null
+        },
+        "links": [
+          "https://www.bilibili.com/video/BV1U64y1x7gR?from=search&seid=4226951783212290743"
+        ],
+        "images": [],
+        "comments": []
+      }
+    ]
+  }]
